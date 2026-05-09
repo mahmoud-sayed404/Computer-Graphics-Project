@@ -1,52 +1,37 @@
-# =========================================
-# CAR GAME - OPENGL GLUT PROJECT
-# =========================================
 
-# PROJECT IDEA
- Simple car animation game using OpenGL and GLUT.
- The car moves left and right while houses move
- in the background to simulate movement.
+# Car Game - OpenGL Project
 
-# =========================================
-# FEATURES
-# =========================================
+## Description
+This is a simple 2D car animation game built using OpenGL and GLUT in C++.
+The project demonstrates basic graphics, animation, and keyboard interaction.
 
- - Car movement
- - Car scaling
- - Rotating wheels
- - Pause / Resume
- - Reset system
- - Moving background houses
+## Features
+- Moving car with left/right arrow keys
+- Scaling car using + / -
+- Rotating wheels animation
+- Moving background houses
+- Pause / Resume system
+- Reset functionality
+- On-screen controls display
 
-# =========================================
-# CONTROLS
-# =========================================
+## Controls
+- + / - : Increase / Decrease car scale  
+- Left / Right Arrows : Move car  
+- S : Pause / Resume animation  
+- R : Reset all  
+- ESC : Exit  
 
-Right Arrow  -> Move Right
- Left Arrow   -> Move Left
- +            -> Scale Up
- -            -> Scale Down
- S            -> Pause / Resume
- R            -> Reset
- ESC          -> Exit
+## Requirements
+- OpenGL
+- GLUT (freeglut recommended)
+- C++ compiler (g++)
 
-# =========================================
-# TECHNOLOGIES
-# =========================================
-
-- C++
- - OpenGL
- - GLUT
-
-# =========================================
-# TEAM MEMBERS
-# =========================================
-
- #Mahmoud Mohamed Sayed
- #Marwan Mohamed Nabil
- #Marwan Ayman Sayed
- #Nourhan Ashour
- #Heba Mohamed Hendawy
- #Heba Hazem
- #Nada AbdelFattah
- #Hadeer Hesham
+## Team Members
+- Mahmoud Mohamed Sayed  
+- Marwan Mohamed Nabil  
+- Marwan Ayman Sayed  
+- Nourhan Ashour  
+- Heba Mohamed Hendawy  
+- Heba Hazem  
+- Nada AbdelFattah  
+- Hadeer Hesham  

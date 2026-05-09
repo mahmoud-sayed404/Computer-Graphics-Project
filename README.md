@@ -31,7 +31,7 @@ The project demonstrates basic graphics, animation, and keyboard interaction.
 - Marwan Mohamed Nabil  
 - Marwan Ayman Sayed  
 - Nourhan Ashour  
-- Heba Mohamed Hendawy  
+- Heba Mahmoud Hendawy  
 - Heba Hazem  
 - Nada AbdelFattah  
 - Hadeer Hesham  
